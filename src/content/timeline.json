@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "title": "Every Memory Begins With You",
+    "subtitle": "A love letter, told in time.",
+    "endingMessage": "No matter how far I grow, some part of me will always reach for you first.",
+    "endingSubtext": "Thank you for being the first place I ever felt safe."
+  },
+
+  "sections": [
+    {
+      "id": "2007-2009",
+      "years": "2007 – 2009",
+      "title": "Your Little Baby",
+      "subtitle": "Where it all began",
+      "quote": "You held me before I knew what holding meant.",
+      "mood": "tender",
+      "accentColor": "#F4C4D4",
+      "gradientFrom": "#FFF5EE",
+      "gradientTo": "#FCE8EF",
+      "memories": [
+        {
+          "id": "m-2007-1",
+          "type": "image",
+          "src": "/assets/2007-2009/photo1.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FCE8EF 0%, #FFE8DA 100%)",
+          "placeholderLabel": "Photo 1",
+          "caption": "The very first days",
+          "text": "You always knew what I needed before I could ask. That quiet, wordless understanding — it's the thing I've searched for in every room I've ever walked into."
+        },
+        {
+          "id": "m-2007-2",
+          "type": "image",
+          "src": "/assets/2007-2009/photo2.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FFF0E6 0%, #F9D0DF 100%)",
+          "placeholderLabel": "Photo 2",
+          "caption": "Learning to see the world",
+          "text": "Every color I encountered, I first saw through the wonder in your eyes. You didn't just show me the world — you made it beautiful before I could judge it."
+        },
+        {
+          "id": "m-2007-3",
+          "type": "image",
+          "src": "/assets/2007-2009/photo3.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FDF0D5 0%, #FFD4BB 100%)",
+          "placeholderLabel": "Photo 3",
+          "caption": "Small hands, infinite trust",
+          "text": "I didn't understand what safety was. I just knew that wherever you were, I wasn't afraid of anything."
+        }
+      ]
+    },
+
+    {
+      "id": "2010-2012",
+      "years": "2010 – 2012",
+      "title": "Tiny Adventures",
+      "subtitle": "You made the small things feel enormous",
+      "quote": "With you, even ordinary days felt like they mattered.",
+      "mood": "warm",
+      "accentColor": "#FFBEA0",
+      "gradientFrom": "#FDF8F3",
+      "gradientTo": "#FFF0E6",
+      "memories": [
+        {
+          "id": "m-2010-1",
+          "type": "image",
+          "src": "/assets/2010-2012/photo1.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FFE8DA 0%, #FDF0D5 100%)",
+          "placeholderLabel": "Photo 1",
+          "caption": "Sunday mornings",
+          "text": "You had this gift for making the world slow down. A weekend morning could last forever when you were in it. I've been trying to recreate that feeling ever since."
+        },
+        {
+          "id": "m-2010-2",
+          "type": "image",
+          "src": "/assets/2010-2012/photo2.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FCE8EF 0%, #FFF5EE 100%)",
+          "placeholderLabel": "Photo 2",
+          "caption": "The first real adventure",
+          "text": "You taught me that adventure doesn't need a destination. It just needs someone beside you who makes the road feel worth taking."
+        },
+        {
+          "id": "m-2010-3",
+          "type": "image",
+          "src": "/assets/2010-2012/photo3.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FFF0E6 0%, #F9D0DF 100%)",
+          "placeholderLabel": "Photo 3",
+          "caption": "Your patience was endless",
+          "text": "I now understand what it costs to be patient. And I understand that you gave me everything you had, without ever keeping score."
+        }
+      ]
+    },
+
+    {
+      "id": "2013-2017",
+      "years": "2013 – 2017",
+      "title": "Growing Up",
+      "subtitle": "You watched me find myself",
+      "quote": "You let me become someone, even as you hoped I'd stay.",
+      "mood": "reflective",
+      "accentColor": "#C9973E",
+      "gradientFrom": "#FFF5EE",
+      "gradientTo": "#FDF8F3",
+      "memories": [
+        {
+          "id": "m-2013-1",
+          "type": "image",
+          "src": "/assets/2013-2017/photo1.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FDF0D5 0%, #FFE8DA 100%)",
+          "placeholderLabel": "Photo 1",
+          "caption": "The age of questions",
+          "text": "I asked you everything. And even when you didn't have the answer, you never made me feel foolish for asking. That's rarer than most people know."
+        },
+        {
+          "id": "m-2013-2",
+          "type": "image",
+          "src": "/assets/2013-2017/photo2.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FCE8EF 0%, #FFF0E6 100%)",
+          "placeholderLabel": "Photo 2",
+          "caption": "You saw me before I could",
+          "text": "Long before I understood who I was, you had already decided I was worth believing in. That belief became the ground I learned to stand on."
+        },
+        {
+          "id": "m-2013-3",
+          "type": "image",
+          "src": "/assets/2013-2017/photo3.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FFF5EE 0%, #F9D0DF 100%)",
+          "placeholderLabel": "Photo 3",
+          "caption": "The quiet conversations",
+          "text": "We didn't always need words. Some of the most important things you ever told me, you said with a look. I still hear them."
+        }
+      ]
+    },
+
+    {
+      "id": "2018-2021",
+      "years": "2018 – 2021",
+      "title": "The Reel Phase",
+      "subtitle": "Life through a lens, still watched by you",
+      "quote": "You always made the frame feel larger than it was.",
+      "mood": "playful",
+      "accentColor": "#E8A0B4",
+      "gradientFrom": "#FCE8EF",
+      "gradientTo": "#FFF0E6",
+      "memories": [
+        {
+          "id": "m-2018-1",
+          "type": "image",
+          "src": "/assets/2018-2021/photo1.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #F9D0DF 0%, #FFE8DA 100%)",
+          "placeholderLabel": "Photo 1",
+          "caption": "Behind the camera",
+          "text": "You watched every phase I moved through with the same eyes — curious, proud, and a little amused. You never made me feel like I had to explain myself."
+        },
+        {
+          "id": "m-2018-2",
+          "type": "image",
+          "src": "/assets/2018-2021/photo2.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FFF5EE 0%, #FCE8EF 100%)",
+          "placeholderLabel": "Photo 2",
+          "caption": "The in-between moments",
+          "text": "The best ones were never the posed shots. They were the blurry, half-lit, unplanned ones — the moments no one meant to catch."
+        },
+        {
+          "id": "m-2018-3",
+          "type": "image",
+          "src": "/assets/2018-2021/photo3.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FDF0D5 0%, #F9D0DF 100%)",
+          "placeholderLabel": "Photo 3",
+          "caption": "Still laughing, still us",
+          "text": "No matter what shifted in the world, our laughter stayed the same. The same pitch, the same timing, the same shared signal that said: we're okay."
+        }
+      ]
+    },
+
+    {
+      "id": "2022-2024",
+      "years": "2022 – 2024",
+      "title": "Becoming Myself",
+      "subtitle": "Finding my way, knowing you were there",
+      "quote": "I could only become myself because you never asked me to be anything else.",
+      "mood": "intimate",
+      "accentColor": "#B8956A",
+      "gradientFrom": "#FDF8F3",
+      "gradientTo": "#FFF5EE",
+      "memories": [
+        {
+          "id": "m-2022-1",
+          "type": "image",
+          "src": "/assets/2022-2024/photo1.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FFF5EE 0%, #FCE8EF 100%)",
+          "placeholderLabel": "Photo 1",
+          "caption": "The distance that made us closer",
+          "text": "Growing up sometimes means growing away. But I realized: no matter how far I moved, I was still thinking in your voice."
+        },
+        {
+          "id": "m-2022-2",
+          "type": "image",
+          "src": "/assets/2022-2024/photo2.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FFE8DA 0%, #FDF0D5 100%)",
+          "placeholderLabel": "Photo 2",
+          "caption": "Calling home",
+          "text": "There are certain conversations I keep returning to. Not because anything was resolved — but because the sound of your voice made everything feel less uncertain."
+        },
+        {
+          "id": "m-2022-3",
+          "type": "image",
+          "src": "/assets/2022-2024/photo3.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #F9D0DF 0%, #FFF0E6 100%)",
+          "placeholderLabel": "Photo 3",
+          "caption": "You never stopped showing up",
+          "text": "I've made mistakes you've never held against me. I've been difficult in ways you've never stopped loving me for. That is not something I take for granted."
+        }
+      ]
+    },
+
+    {
+      "id": "2025-2026",
+      "years": "2025 – 2026",
+      "title": "Still Your Child",
+      "subtitle": "Some things never change",
+      "quote": "However grown I become, there will always be a part of me that only you can reach.",
+      "mood": "climax",
+      "accentColor": "#C9973E",
+      "gradientFrom": "#FFF5EE",
+      "gradientTo": "#FCE8EF",
+      "memories": [
+        {
+          "id": "m-2025-1",
+          "type": "image",
+          "src": "/assets/2025-2026/photo1.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FDF0D5 0%, #FCE8EF 100%)",
+          "placeholderLabel": "Photo 1",
+          "caption": "Here, now, together",
+          "text": "You are still the first person I want to tell good news. Still the voice I need when things fall apart. Still home — no matter which city I'm in."
+        },
+        {
+          "id": "m-2025-2",
+          "type": "image",
+          "src": "/assets/2025-2026/photo2.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FFE8DA 0%, #F9D0DF 100%)",
+          "placeholderLabel": "Photo 2",
+          "caption": "What I carry from you",
+          "text": "Your kindness lives in me. I see it in the way I listen, the way I worry, the way I love. Every good thing I've become has your fingerprints on it."
+        },
+        {
+          "id": "m-2025-3",
+          "type": "image",
+          "src": "/assets/2025-2026/photo3.jpeg",
+          "placeholderGradient": "linear-gradient(135deg, #FFF5EE 0%, #FDF0D5 100%)",
+          "placeholderLabel": "Photo 3",
+          "caption": "Thank you",
+          "text": "There are not enough words. There never will be. So I made this instead — a small, imperfect attempt to hold what I feel for you."
+        }
+      ]
+    }
+  ]
+}
